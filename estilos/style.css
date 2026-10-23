@@ -163,12 +163,14 @@ article#video .video-conteiner {
 #hardskills {
   display: grid;
   grid-template-columns: 1fr;
+  align-content: start;
   gap: 30px;
 }
 
 #softskills {
   display: grid;
   grid-template-columns: 1fr;
+  align-content: start;
   gap: 30px;
 }
 
