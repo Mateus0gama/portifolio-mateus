@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+  #skill-conteiner {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #projeto-conteiner .projeto {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+
+  #projeto-conteiner .projeto-info {
+    max-width: 80%;
+  }
+
+  #projeto-conteiner .foto {
+    aspect-ratio: 1/1;
+    max-width: 20%;
+    max-height: 200px;
+  }
+}
