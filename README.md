@@ -7,8 +7,8 @@ Como estudante de Sistemas de Informação no IFS, este projeto marca um passo i
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5:** Estruturação semântica do conteúdo.
-- **CSS3:** Estilização, layout e responsividade[cite: 4, 5].
-- **JavaScript:** Interatividade da página, manipulação do DOM e armazenamento de dados[cite: 6].
+- **CSS3:** Estilização, layout e responsividade.
+- **JavaScript:** Interatividade da página, manipulação do DOM e armazenamento de dados.
 
 ## ✨ Funcionalidades e Conceitos Aplicados
 
@@ -26,9 +26,9 @@ Durante o desenvolvimento deste portfólio, apliquei diversos conceitos modernos
 
 Na seção de projetos, resumi algumas das práticas feitas ao longo do curso, como:
 
-- Inserção de mídias (Vídeos e Áudios)[cite: 7].
-- Efeito Parallax (Projeto Cordel)[cite: 7].
-- Telas de Login responsivas[cite: 7].
+- Inserção de mídias (Vídeos e Áudios).
+- Efeito Parallax (Projeto Cordel).
+- Telas de Login responsivas.
 
 ## 🛠️ Como executar o projeto
 
