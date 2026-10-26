@@ -265,6 +265,11 @@ article#video .video-conteiner {
   cursor: pointer;
 }
 
+#projeto-conteiner .descricao p {
+  text-indent: 2em;
+  text-align: justify;
+}
+
 #projeto-conteiner .foto {
   overflow: hidden;
   width: 100%;
