@@ -141,7 +141,7 @@ article {
   background-color: var(--fundo-card);
   padding: 20px;
   margin-bottom: 20px;
-  border: 8px;
+  border-radius: 8px;
 }
 
 article h2 {
